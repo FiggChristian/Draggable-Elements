@@ -20,7 +20,7 @@ There are three ways to instantiate a new draggable element. The argument ```ele
 The documentation pages can be found [here](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/documentation/ "Documentation Page") for all versions.
 
 ## Demo
-[Click Me](https://christianfigueroa.github.io/JavaScipt/Draggable-Elements/demo "Demo Page")
+[Click Me](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/demo "Demo Page")
 
 ## Changelog
 <strong>v1.0</strong>
@@ -31,9 +31,9 @@ The documentation pages can be found [here](https://christianfigueroa.github.io/
 
 ## Download
 
-> <strong>GitHub:</strong> &#8227; [Minified](Minified "Minified") &#8227; [Development](Development "Development")
+<strong>GitHub:</strong> &#8227; [Minified](Minified "Minified") &#8227; [Development](Development "Development")
 
-> [Full Download Page](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/download "Download Page")
+[Full Download Page](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/download "Download Page")
 
 ## Email and License
 
