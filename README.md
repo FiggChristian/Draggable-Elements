@@ -6,7 +6,7 @@ Draggable-Elements is a JavaScript library for, you guessed it, draggable elemen
 
 [![](Draggable-Elements-demo.gif)](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/demo#inertia=true "Demo Page")
 
-The above gif shows a small demo of the library in action ([Link to play around with it](https://christianfigueroa/github.io/JavaScript/Draggable-Elements/demo#inertia=true "Demo Page")).
+The above gif shows a small demo of the library in action ([Link to play around with it](https://christianfigueroa.github.io/JavaScript/Draggable-Elements/demo#inertia=true "Demo Page")).
 
 ## Usage
 ```JavaScript
